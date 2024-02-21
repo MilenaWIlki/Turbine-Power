@@ -1,0 +1,8 @@
+def calculate_power_production(wind_speed):
+    # Implement a model to calculate power production based on wind speed
+    pass
+
+# Example usage:
+wind_speed = 15  # m/s
+power_production = calculate_power_production(wind_speed)
+print("Power production of the wind turbine:", power_production, "kW")
